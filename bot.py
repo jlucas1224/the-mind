@@ -12,6 +12,7 @@ async def send_message(username, message, user_message, is_private):
         print(e)
 
 
+
 def run_discord_bot():
     intents = discord.Intents.default()
     intents.message_content = True

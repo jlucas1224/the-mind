@@ -1,5 +1,6 @@
 import random
 
+
 current_number = '0'
 game_started = False
 can_use_card = False
